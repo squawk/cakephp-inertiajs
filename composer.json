@@ -1,5 +1,5 @@
 {
-    "name": "ishanvyas22/cakephp-inertiajs",
+    "name": "squawk/cakephp-inertiajs",
     "description": "The CakePHP adapter for Inertia.js.",
     "type": "cakephp-plugin",
     "license": "MIT",
